@@ -2,7 +2,7 @@
 import java.util.Random;
 import java.util.Scanner
 
-public class {
+public class erraten{
 
 private int maxnumber = 10; 
 
